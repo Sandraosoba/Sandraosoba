@@ -1,4 +1,4 @@
-mport random
+import random
 
 def choose_word():
     words = ['lion', 'elephant', 'tiger', 'giraffe', 'zebra', 'monkey', 'cheetah', 'hippopotamus']
